@@ -1,0 +1,126 @@
+body {
+  background-color: black;
+}
+.home {
+  background-color: #292929;
+  height: 10%;
+  margin: 20px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+.browse {
+  /*background-color: #292929;
+  height: 35%;
+  width: 150px;
+  margin: 50px;
+  width: 200px;
+  text-align: center;*/
+  background-color: #292929;
+  margin: 5px;
+  padding: 5px;
+
+}
+.library {
+  background-color: #171717;
+  height: 60%;
+  margin: 20px;
+  width: 200px;
+  position: relative;
+  text-align: center;
+
+}
+.playlists {
+  margin-top: 30px;
+  height: 80%;
+  background-color: black;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+}
+.sleep{
+  height: 100px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  /*justify-content: space-between;*/
+}
+h1 {
+  color: white;
+}
+.texts {
+  display: flex;
+  justify-content: space-between;
+}
+p {
+  color: white;
+}
+.song {
+  background-color: #171717;
+  position: relative;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.songs {
+  display: flex;
+  flex-direction: row;
+}
+.img {
+  height: 100px;
+  width: 70%;
+
+}
+h2 {
+  color: white;
+}
+.first {
+  display: flex;
+  justify-content: space-between;
+}
+.Create {
+
+  background-color: #292929;
+  margin: 5px;
+  padding: 5px;
+
+
+}
+.left {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+.btn {
+  border-radius: 70px;
+  padding: 5px;
+  font-weight: bold;
+}
+.buttons {
+  text-align: right;
+}
+.btn1 {
+  background-color: black;
+  font-weight: bold;
+  color: white;
+  margin-right: 20px;
+  border-radius: 70px;
+}
+.btn2 {
+font-weight: bold;
+border-radius: 70px;
+background-color: white;
+}
